@@ -81,11 +81,11 @@
 		A73EF3331A46470400663740 /* dayOne */ = {
 			isa = PBXGroup;
 			children = (
+				A73EF33E1A46470400663740 /* Main.storyboard */,
 				A73EF3381A46470400663740 /* AppDelegate.h */,
 				A73EF3391A46470400663740 /* AppDelegate.m */,
 				A73EF33B1A46470400663740 /* ViewController.h */,
 				A73EF33C1A46470400663740 /* ViewController.m */,
-				A73EF33E1A46470400663740 /* Main.storyboard */,
 				A73EF3411A46470400663740 /* Images.xcassets */,
 				A73EF3431A46470400663740 /* LaunchScreen.xib */,
 				A73EF3341A46470400663740 /* Supporting Files */,
@@ -414,6 +414,7 @@
 				A73EF3561A46470400663740 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A73EF3571A46470400663740 /* Build configuration list for PBXNativeTarget "dayOneTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +423,7 @@
 				A73EF3591A46470400663740 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
